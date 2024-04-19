@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @EccentricRay
-- 🌱 I’m currently learning JAVA
+- 🌱 I’m currently learning JAVA & PYTHON
