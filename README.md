@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @EccentricRay
+- 👋 Hi, I’m Rayan
 - 🌱 ........
