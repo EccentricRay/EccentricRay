@@ -1,4 +1,4 @@
 ## 👋 Hi, I’m Rayan
 
-AI-focused Computer Science student working on real-world projects in  
+AI-focused Computer Science student interested in  
 **NLP, Computer Vision, LLMs, RAG systems, and efficient model deployment**.
