@@ -31,10 +31,8 @@
     </td>
   </tr>
 </table>
-
----
-
+<p align="center">
+<img src="https://stats-repo-six.vercel.app/api/top-langs/?username=Rayan-Al-Harbi&layout=compact&theme=tokyonight&hide_border=true&hide=Dart&v=1" alt="Most Used Languages" />
 <img src="https://streak-stats.demolab.com?user=Rayan-Al-Harbi&theme=tokyonight&hide_border=true" height="165"/>
-
-</table>
+</p>
 
